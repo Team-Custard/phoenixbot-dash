@@ -1,0 +1,7 @@
+{
+    "fullredirecturl": "http://10.0.0.205:8080/dash/login",
+    "redirecturl": "http%3A%2F%2F10.0.0.205%3A8080%2Fdash%2Flogin",
+    "clientid": "1171286616967479377",
+    "serverport": 8080,
+    "devmode": "off"
+}
